@@ -21,7 +21,7 @@ result.then((distance) =>{
 })
 ```
 
-####Theory
+#### Theory
 
 The Distance calculator takes two pincodes as arguments in the getDistance function.
 An API call is made to get the latlong data of both the pincodes.
@@ -32,7 +32,7 @@ The distance is calculated using the Haversine formula which is used to calculat
 <hr>
 
 
-####Caveats
+#### Caveats
 NOTE : The distance which is returned is not the distance by road, it is instead a distance between two points using a straight line.
 
 ![image](https://qph.fs.quoracdn.net/main-qimg-f162f269d994dd060ef9e95cca7b294a)
