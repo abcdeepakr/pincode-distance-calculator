@@ -26,5 +26,8 @@
   "bugs": {
     "url": "https://github.com/DeepakR-28/pincode-distance-calculator/issues"
   },
-  "homepage": "https://github.com/DeepakR-28/pincode-distance-calculator#readme"
+  "homepage": "https://github.com/DeepakR-28/pincode-distance-calculator#readme",
+  "dependencies": {
+    "axios": "^0.24.0"
+  }
 }
